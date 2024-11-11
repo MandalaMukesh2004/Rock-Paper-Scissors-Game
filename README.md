@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Game
-Description
+# Description
 This is a web-based Rock, Paper, Scissors game where the player competes against the computer. The game provides a fun and interactive way to play the classic game with a simple user interface. You select one of the three choices: Rock, Paper, or Scissors, and the computer will randomly select its own move. The winner is decided based on the rules of the game:
 
 - Rock beats Scissors.
