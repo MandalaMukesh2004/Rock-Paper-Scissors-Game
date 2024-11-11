@@ -15,7 +15,7 @@ Features
 
 Installation
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/MandalaMukesh2004/Rock-Paper-Scissors.git
 2. Navigate to the project directory:
 cd rock-paper-scissors
 3. Open the `index.html` file in your browser to play the game.
